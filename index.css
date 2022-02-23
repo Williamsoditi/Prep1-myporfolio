@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    align-items: center;
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    background-color: grey;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    padding: 2vw;
+}
+.logo p{
+    font-size: 20px;
+}
+.logo p span{
+    color: red;
+}
+.nav-links a{
+    text-decoration: none;
+    padding: 2vw;
+}
+#navbar a:hover{
+    color: red;
+    cursor: progress;
+}
+.media abbr{
+    padding: 20px;
+    color: white;
+}
+.media abbr:hover{
+    color: red;
+}
