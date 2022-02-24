@@ -68,9 +68,14 @@ span{
 }
 .me-1 img{
     float: left;
+    clear: both;
     border-radius: 50%
 }
 .me-1 p{
     padding-top: 70px;
     margin-left: 10px;
+}
+.end{
+    display: flex;
+    justify-content: space-evenly;
 }
