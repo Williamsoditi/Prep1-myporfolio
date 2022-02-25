@@ -98,5 +98,11 @@ span{
 contacts p{
     text-align: center;
 } 
-
+.features{
+    font-size: 20px;
+}
+.spinners{
+    text-align: center;
+    align-items: center;
+}
 
