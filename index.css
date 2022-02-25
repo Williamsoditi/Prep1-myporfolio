@@ -42,7 +42,7 @@ span{
     color: black;
 }
 .media abbr:hover{
-    color: red;
+    color: blue;
 }
 .landpage{
     color: white;
@@ -72,10 +72,10 @@ span{
     clear: inline-end; */
     border-radius: 50%
 }
-.me-1 p{
-    /* padding-top: 70px;
-    margin-left: 10px; */
-}
+/* .me-1 p{
+    padding-top: 70px;
+    margin-left: 10px;
+} */
 .end{
     display: flex;
     justify-content: space-evenly;
@@ -84,7 +84,9 @@ span{
 .end a{
     padding: 3vw;
     font-size: x-large;
+    color: black;
 }
 .end a:hover{
-    color: red;
+    color: blue;
+    cursor: grab;
 }
