@@ -67,11 +67,7 @@ span{
 .me{
     text-align: justify;
 }
-.me-1 img{
-    /* float: left;
-    clear: inline-end; */
-    border-radius: 50%
-}
+
 /* .me-1 p{
     padding-top: 70px;
     margin-left: 10px;
@@ -100,3 +96,4 @@ span{
 .projects h2{
     font-size: 20px;
 }
+
