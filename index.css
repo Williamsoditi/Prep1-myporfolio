@@ -26,7 +26,7 @@ header{
     line-height: inherit;
 }
 span{
-    color: red;
+    color: blue;
 }
 .nav-links a{
     text-decoration: none;
@@ -89,4 +89,14 @@ span{
 .end a:hover{
     color: blue;
     cursor: grab;
+}
+.projects{
+    text-align: center;
+    margin-top: 5vw;
+}
+.projects p {
+    font-size: 20px;
+}
+.projects h2{
+    font-size: 20px;
 }
