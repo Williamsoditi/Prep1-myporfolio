@@ -1,8 +1,8 @@
 *{
     box-sizing: border-box;
-    align-items: center;
     padding: 0%;
     margin: 0%;
+    align-items: center;
 }
 header{
     background-image: url(./assets/williamsoditi.jpg);
@@ -92,8 +92,11 @@ span{
 .projects h2{
     font-size: 20px;
 }
-.contacts {
+.contacts{
     text-align: center;
 }
+contacts p{
+    text-align: center;
+} 
 
 
